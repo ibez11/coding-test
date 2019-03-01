@@ -1,0 +1,18 @@
+{
+  "name": "coding",
+  "version": "1.0.0",
+  "description": "- Clone repo - Run composer update - Set your vhost to point to project_root/public - Don't forget to create .env file(copy from .env.example) - Open the browser",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "jquery": "^3.2"
+  },
+  "author": "",
+  "license": "ISC"
+}

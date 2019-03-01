@@ -1,0 +1,20 @@
+{
+  "name": "coding",
+  "authors": [
+    "Muhammad Bestari <ibez1!@gmail.com>"
+  ],
+  "description": "coding test",
+  "main": "index.php",
+  "keywords": [
+    "coding"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
